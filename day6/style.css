@@ -1,0 +1,8 @@
+/*
+Theme Name:サンプルテーマ 
+*/
+/*この下にCSSを書いていく*/
+div {
+    font-size: large;
+    color: brown;
+}
